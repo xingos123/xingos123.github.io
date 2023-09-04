@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siteng Huang"
+  name             : "Xingchen Ding"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ Zhejiang University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
-  location         : "Hangzhou, China"
+  bio              : "Postgraduate Student @ Wuhan University" # "Joint Ph.D. Student @ Zhejiang University & Westlake University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "siteng.huang@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
+  email            : "xingos@whu.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bighuang624"
+  github           : "xingos123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  orcid            : #"https://orcid.org/0000-0002-9735-1186"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : #"KyonHuang"
   vine             :
   weibo            :
   xing             :
