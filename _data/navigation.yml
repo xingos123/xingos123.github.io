@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "News"
+    url: \#news
+
+  - title: "Publications"
+    url: \#publications
+
+  - title: "Experience"
+    url: \#experience
+
+  - title: "Services"
+    url: \#services
+
+  - title: "Projects"
+    url: /publications/
+
+  - title: "Misc"
+    url: \#misc
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+    
+  # - title: "CV (Chinese)"
+  #   url: /files/SitengHuang-CV-cn.pdf
+
+  # - title: "CV (English)"
+  #   url: /files/SitengHuang-CV-en.pdf
+    
