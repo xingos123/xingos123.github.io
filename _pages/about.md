@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 语言和认知计算实验宏
-Language and Cognition Computing Laberaory -->
 
 <!-- Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of [Zhejiang University](http://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml). And I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, and currently also a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019. -->
-Hi! I am Xingchen Ding (丁星辰 in Chinese). I am a postgraduate student of [Wuhan University](http://www.whu.edu.cn/), currently immersing myself in academic pursuits within the Wuhan University [Language and Cognitive Computing Laboratory](http://lacc.whu.edu.cn/home), led by the distinguished Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ). And I am currently a research intern at <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>. Prior to my Ph.D. career, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) in 2019.
+Hi! I am Xingchen Ding (丁星辰 in Chinese). I am a Postgraduate student of [Wuhan University](http://www.whu.edu.cn/), currently immersing myself in academic pursuits within the [Wuhan University Language and Cognitive Computing Laboratory](http://lacc.whu.edu.cn/home), led by the distinguished Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ). Prior to my Postgraduate career, I received my B.S. Degree from School of Resource and Environmental Sciences, [Wuhan University](https://www.whu.edu.cn/) in 2019, and then I gained industry experience as a Software Development Engineer at TCL Technology Group Corporation.
+<!-- TCL Commercial Information Technology Co., Ltd.  -->
 
-<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!</span>
+<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:xingos@whu.edu.cn" target="_blank">email</a> if you are interested!</span>
 
 <h2 id='research-interests'>Research Interests</h2>
 
