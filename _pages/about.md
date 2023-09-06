@@ -84,8 +84,8 @@ Yang Liu, <u>Xingchen Ding</u>, &quot;**Depression clinical detection model base
 
 <h2 id='experience'>Experience</h2>
 
-* Research Intern - **DAMO Academy, Alibaba Group**
-  * Time: March 2022 - Present.
+* Software Development Engineer - **TCL Commercial Business, TCL Technology Group**
+  * Time: July 2019 - April 2020.
   * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong.
 
 <!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
@@ -109,21 +109,18 @@ Yang Liu, <u>Xingchen Ding</u>, &quot;**Depression clinical detection model base
 
 * [ICCV 2023](https://iccv2023.thecvf.com/) -->
 
-### Conference and Journal Reviewer
+### Conference Reviewer
 
-* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
-* AAAI Conference on Artificial Intelligence [(AAAI)](https://aaai.org/conference/aaai/)
-* International Joint Conference on Artificial Intelligence [(IJCAI)](https://www.ijcai.org/)
-* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* IEEE International Conference on Systems, Man, and Cybernetics [(SMC)](https://www.ieeesmc.org/)
+* International Conference on Software Engineering and Knowledge Engineering [(SEKE)](https://ksiresearch.org/seke/seke23.html)
 
-### Program Committee for Conferences and Workshops
+<!-- ### Program Committee for Conferences and Workshops
 
 * Session Chair, The First Westlake Robot Learning Symposium
 
 <h2 id='misc'>Misc</h2>
 
-Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/).
+Welcome to follow my [Zhihu](https://www.zhihu.com/people/huang-si-teng-67) account and [Chinese blog](https://kyonhuang.top/blog/). -->
 
 <!-- <div align="middle">
   <a href="https://milab.westlake.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://kyonhuang.top/images/milab_logo.png" /></a>
