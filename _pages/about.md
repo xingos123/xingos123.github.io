@@ -65,7 +65,7 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Journal article
 
-<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66BsvSnCfrndbo-MNSP4LaaudAxAHu5zn55gm4f--rgb-5ZwxHsyZmC&uniplatform=NZKPT" target="_blank"><img src="https://img.shields.io/badge/DAKD-blue?style=flat-square"></a> Yang Liu, <u>Xingchen Ding</u>(corresponding author), Lili Ma, Chunyang wang and Lifang Zhu, &quot;**The helpfulness detection of travel reviews based on multidimensional graph convolutional network**&quot;. In *the Journal of Data Analysis and Knowledge Discovery*. [[pdf](https://xingos123.github.io/files/dataanalysis/multidimensional-graph-convolutional-network.pdf)]
+<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66BsvSnCfrndbo-MNSP4LaaudAxAHu5zn55gm4f--rgb-5ZwxHsyZmC&uniplatform=NZKPT" target="_blank"><img src="https://img.shields.io/badge/DAKD-blue?style=flat-square"></a> Yang Liu, <u>Xingchen Ding (corresponding author)</u>, Lili Ma, Chunyang wang and Lifang Zhu, &quot;**The helpfulness detection of travel reviews based on multidimensional graph convolutional network**&quot;. In *the Journal of Data Analysis and Knowledge Discovery*. [[pdf](https://xingos123.github.io/files/dataanalysis/multidimensional-graph-convolutional-network.pdf)]
 
 ### Preprints & Under Submission
 
