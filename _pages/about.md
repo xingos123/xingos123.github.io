@@ -65,12 +65,19 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Journal article
 
-<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66BsvSnCfrndbo-MNSP4LaaudAxAHu5zn55gm4f--rgb-5ZwxHsyZmC&uniplatform=NZKPT" target="_blank"><img src="https://img.shields.io/badge/DAKD-blue?style=flat-square"></a> Liu Yang, <u>Xingchen Ding</u>, Ma Lili, Wang Chunyang and Zhu Lifang, &quot;**The helpfulness detection of travel reviews based on multidimensional graph convolutional network**&quot;. In *the Journal of Data Analysis and Knowledge Discovery*. [[pdf](https://xingos123.github.io/files/dataanalysis/multidimensional-graph-convolutional-network.pdf)]
+<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66BsvSnCfrndbo-MNSP4LaaudAxAHu5zn55gm4f--rgb-5ZwxHsyZmC&uniplatform=NZKPT" target="_blank"><img src="https://img.shields.io/badge/DAKD-blue?style=flat-square"></a> Yang Liu, <u>Xingchen Ding</u>, Lili Ma, Chunyang wang and Lifang Zhu, &quot;**The helpfulness detection of travel reviews based on multidimensional graph convolutional network**&quot;. In *the Journal of Data Analysis and Knowledge Discovery*. [[pdf](https://xingos123.github.io/files/dataanalysis/multidimensional-graph-convolutional-network.pdf)]
 
 ### Preprints & Under Submission
 
+<u>Xingchen Ding</u>, Fei Li, Chong Teng, Donghong Ji, &quot;**Unsupervised Domain Adaptation with Prompt Reasoning for Improving Rumor Detection**&quot;.
+
+<u>Xingchen Ding</u>, Fei Li, Chong Teng, Donghong Ji, &quot;**Cross-Lingual Cross-Target Stance Detection via Adversarial Heterogeneous Graph Augmented Prompt Tuning**&quot;.
 
 Xianping Ma, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Unsupervised Domain Adaptation with Transformer-Based GAN for Semantic Segmentation of High-Resolution Remote Sensing Images**&quot;. [[pdf](https://www.techrxiv.org/ndownloader/files/41660625/1)]
+
+Yang Liu, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Assessing the helpfulness of hotel reviews for information overload: a multi-view spatial feature approach**&quot;.
+Yang Liu, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Depression clinical detection model based on social media: a federated deep learning approach**&quot;.
+
 
 <!-- ## Professional Experience -->
 
