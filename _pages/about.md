@@ -75,9 +75,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 Xianping Ma, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Unsupervised Domain Adaptation with Transformer-Based GAN for Semantic Segmentation of High-Resolution Remote Sensing Images**&quot;. [[pdf](https://www.techrxiv.org/ndownloader/files/41660625/1)]
 
-Yang Liu, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Assessing the helpfulness of hotel reviews for information overload: a multi-view spatial feature approach**&quot;.
+Yang Liu, <u>Xingchen Ding</u>, &quot;**Assessing the helpfulness of hotel reviews for information overload: a multi-view spatial feature approach**&quot;.
 
-Yang Liu, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Depression clinical detection model based on social media: a federated deep learning approach**&quot;.
+Yang Liu, <u>Xingchen Ding</u>, &quot;**Depression clinical detection model based on social media: a federated deep learning approach**&quot;.
 
 
 <!-- ## Professional Experience -->
