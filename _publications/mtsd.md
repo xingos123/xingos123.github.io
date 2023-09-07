@@ -3,7 +3,7 @@ title: "Cross-Lingual Cross-Target Stance Detection via Adversarial Heterogeneou
 collection: publications
 permalink: /publication/mtsd
 excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://xingos123.github.io/files/seke2023/mtsd.png" /></div> To this end, we propose a comprehensive solution to tackle the challenge of cross-language cross-target stance detection on social media platforms, which is called adversarial heterogeneous graph augmented prompt (AHGA) tuning framework. Specifically, we use a simple-effective cross-lingual prompt encoding machanism to solve the input problem for multilingual content and enhance short text representation, then we leverage context metadata to construct a batch-wise heterogeneous graph. In this graph, each labeled item is represented by a node and edges between the nodes denote the similarity between the items. AHGA establishes edges in the heterogeneous graph based on whether two news items share common attributes such as stance or sentiment, and further regulates the similarity of the representations learned by PLMs between each pair of news items to conform with the edges of the heterogeneous graph. The scalability of HGAPT is noteworthy since the heterogeneous graph is constructed based on a mini-batch of sampled data points per iteration. To further enhance the feature adaption of heterogeneous graph learning, we exploit adversarial attacks to plenish noise to the MASK representation by computing adversarial worst-case perturbations, forcing the model to learn non-trivial but effective features.'
-date: 0000-00-00
+date: 1997-01-01
 venue: 'None'
 ---
 <!-- 

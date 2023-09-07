@@ -3,7 +3,7 @@ title: "Graph-Rumor Aligning and Reasoning for Improving Rumor Detection in Unkn
 collection: publications
 permalink: /publication/grar
 excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://xingos123.github.io/files/seke2023/grar.png" /></div> To this end, we proposes a zero-shot domain-transfer prompt tuning (ZDP) framework for detecting unknown domain rumors on social media. The framework incorporates a text encoder and a graph encoder to encode the rumor and its associated propagation threads, correspondingly. To extract domain-invariant features, we implement a graph-rumor embedding aligning (GRA) loss, which minimizes the KL divergence between the normalized graph-rumor similarity score distributions and the normalized ground truth label matching distributions. Additionally, an implicit reasoning module is designed to build relations between graph and rumor textual representations through self- and cross-attention mechanisms. The resulting fused representation is used for prompt learning to achieve effective implicit graph-rumor relation learning, which improves the performance of the zeroshot rumor detection method. '
-date: 0000-00-00
+date: 1997-01-01
 venue: 'None'
 ---
 <!-- 
