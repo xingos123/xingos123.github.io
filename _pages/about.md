@@ -86,18 +86,7 @@ Yang Liu, <u>Xingchen Ding</u>, &quot;**Depression clinical detection model base
 
 * Software Development Engineer - **TCL Commercial Business, TCL Technology Group**
   * Time: July 2019 - April 2020.
-  * Fundamental Visual Intelligence Team, supervised by Dr. Deli Zhao and Biao Gong.
-
-<!-- **Research Intern** | DAMO Academy, Alibaba Group | March 2022 - Present -->
-
-<!-- * March 2022 - Present. *Research Intern*. <a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a>, Hangzhou, China. -->
-
-<!-- <div style="float:left;">Research Intern</div><div style="float:right;">Mar. 2022 - Present</div>
-<div style="float:left;"><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Hangzhou, China</div> -->
-
-<!-- <div>
-<div style="float:left;">Research Intern<br><a href="https://damo.alibaba.com/" target="_blank">DAMO Academy, Alibaba Group</a></div><div style="float:right;">Mar. 2022 - Present<br>Hangzhou, China</div>
-</div> -->
+  * Responsible for developing Window software for TCL V30 meeting tablet products, including the development of meeting desktop software and meeting assistant software (which sparked my interest in NLP and AI research, motivating my pursuit of academic research).
 
 <h2 id='services'>Services</h2>
 
