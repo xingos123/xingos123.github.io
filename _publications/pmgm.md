@@ -1,12 +1,12 @@
 ---
-title: "Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition"
+title: "Fake News Detection with Context Awareness of the Publisher"
 collection: publications
-permalink: /publication/attributes-guided-attention-module
-excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/AGAM/AGAM-intuition.png" /></div> In this paper, we devise an **attributes-guided attention module (AGAM)** to utilize human-annotated attributes and learn more discriminative features for few-shot recognition. This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for the support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an **attention alignment mechanism** is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings.'
-date: 2021-02-02
-venue: 'Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)'
+permalink: /publication/pmgm
+excerpt: '<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://xingos123.github.io/files/seke2023/pmgm.png" /></div> To address the aforementioned limitations, we propose a novel multi-view graph model that is oriented towards the publisher (PMGM). Our model extracts 40 latent textual features as text style features given a piece of news text. It encodes the words in the news text and publisher profile using BERT, and then combines these features to represent the news text. Furthermore, we propose a multi-view news graph that is oriented towards the publisher. The nodes of the graph are news representations, and the edges model the relationships between news in different views, such as topics and occasions. The news representations are updated using Graph Convolutional Networks (GCN) and Jumping Knowledge Networks (JK-Nets). The representations from different views are fused using the attention mechanism. Finally, a neural classifier is used to predict the labels of all news jointly. '
+date: 2023-04-20
+venue: 'The 2023 International Conference on Software Engineering and Knowledge Engineering (SEKE2023)'
 ---
-
+<!-- 
 [arXiv](https://arxiv.org/abs/2009.04724){: .btn .btn--info}
 [code](https://github.com/bighuang624/AGAM){: .btn .btn--info}
 [poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf){: .btn .btn--info}
@@ -26,11 +26,11 @@ The purpose of few-shot recognition is to recognize novel categories with a limi
 
 ![](https://kyonhuang.top/files/AGAM/AGAM-model-structure.png)
 
-In AGAM, we design two parallel branches, *i.e.*, **attributes-guided branch** and **self-guided branch**. For samples with attributes annotations, the attributes-guided branch learns the attention weights by incorporating both attributes and visual contents. And the self-guided branch is designed for the inference of samples without the guidance of attributes. Furthermore, we propose an **attention alignment mechanism** in AGAM, which aims to pull the focus of the two branches closer, so that the self-guided branch can capture more informative features for query samples without the guidance of attributes. Note that AGAM is a flexible module and can be easily added into any part of convolutional neural networks.
+In AGAM, we design two parallel branches, *i.e.*, **attributes-guided branch** and **self-guided branch**. For samples with attributes annotations, the attributes-guided branch learns the attention weights by incorporating both attributes and visual contents. And the self-guided branch is designed for the inference of samples without the guidance of attributes. Furthermore, we propose an **attention alignment mechanism** in AGAM, which aims to pull the focus of the two branches closer, so that the self-guided branch can capture more informative features for query samples without the guidance of attributes. Note that AGAM is a flexible module and can be easily added into any part of convolutional neural networks. -->
 
 <!-- This plug-and-play module enables visual contents and corresponding attributes to collectively focus on important channels and regions for support set. And the feature selection is also achieved for query set with only visual information while the attributes are not available. Therefore, representations from both sets are improved in a fine-grained manner. Moreover, an attention alignment mechanism is proposed to distill knowledge from the guidance of attributes to the pure-visual branch for samples without attributes. Extensive experiments and analysis show that our proposed module can significantly improve simple metric-based approaches to achieve state-of-the-art performance on different datasets and settings. -->
 
-## Experiment Results
+<!-- ## Experiment Results
 
 Here we report some experimental results to empirically show the effectiveness of our AGAM. Please check the paper for the details of the experiment settings and further analysis.
 
@@ -66,4 +66,4 @@ If our paper and codes are helpful for you research, please cite our paper:
   month = {February},
   year = {2021}
 }
-</pre>
+</pre> -->
