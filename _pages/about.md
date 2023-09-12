@@ -72,9 +72,9 @@ I am always looking for related colaboration. If you are interested to chat with
 
 ### Preprints & Under Submission
 
-<u>Xingchen Ding</u>,Xianping Ma, Fei Li, Chong Teng, Donghong Ji, &quot;**Unsupervised Domain Adaptation with Prompt Reasoning for Improving Rumor Detection**&quot;.
+<u>Xingchen Ding</u>, Xianping Ma, Fei Li, Chong Teng, Donghong Ji, &quot;**Unsupervised Domain Adaptation with Prompt Reasoning for Improving Rumor Detection**&quot;.
 
-<u>Xingchen Ding</u>,Xianping Ma, Fei Li, Chong Teng, Donghong Ji, &quot;**Cross-Lingual Cross-Target Stance Detection via Adversarial Heterogeneous Graph Augmented Prompt Tuning**&quot;.
+<u>Xingchen Ding</u>, Xianping Ma, Fei Li, Chong Teng, Donghong Ji, &quot;**Cross-Lingual Cross-Target Stance Detection via Adversarial Heterogeneous Graph Augmented Prompt Tuning**&quot;.
 
 Xianping Ma, <u>Xingchen Ding</u>, Xiaokang Zhang, Man-On Pun, Siwei Ma, &quot;**Unsupervised Domain Adaptation with Transformer-Based GAN for Semantic Segmentation of High-Resolution Remote Sensing Images**&quot;. [[pdf](https://www.techrxiv.org/ndownloader/files/41660625/1)]
 
