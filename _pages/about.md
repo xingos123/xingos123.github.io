@@ -12,7 +12,7 @@ redirect_from:
 Hi! I am Xingchen Ding (丁星辰 in Chinese). I am a Postgraduate student of [Wuhan University](http://www.whu.edu.cn/), currently immersing myself in academic pursuits within the [Wuhan University Language and Cognitive Computing Laboratory](http://lacc.whu.edu.cn/home), led by the distinguished Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ). Prior to my Postgraduate career, I received my B.S. Degree from School of Resource and Environmental Sciences, [Wuhan University](https://www.whu.edu.cn/) in 2019, and then I gained industry experience as a Software Development Engineer at TCL Technology Group Corporation.
 <!-- TCL Commercial Information Technology Co., Ltd.  -->
 
-<span style="color:red;">I am <b>seeking exciting research opportunities to pursue a Ph.D. degree after Postgraduate graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:xingos@whu.edu.cn" target="_blank">email</a> if you are interested!</span>
+<span style="color:red;">I am <b>seeking exciting research opportunities to pursue a Ph.D. degree after Postgraduate graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:xingos1342@gmail.com" target="_blank">email</a> if you are interested!</span>
 
 <h2 id='research-interests'>Research Interests</h2>
 
@@ -26,7 +26,7 @@ Currently, my research has centered on
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 * **Other fascinating areas**: federated learing, graph learning, reinforcement learning, unsupervised domain adaptation
 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:xingos@whu.edu.cn" target="_blank">email</a>.
+I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:xingos1342@gmail.com" target="_blank">email</a>.
 
 <!-- language-augmented vision -->
 
