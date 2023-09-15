@@ -21,7 +21,8 @@ Hi! I am Xingchen Ding (丁星辰 in Chinese). I am a Postgraduate student of [W
 Currently, my research has centered on
 
 * **AIGC**: graph-to-text generation (G2T), customized & controllable generation
-* **Social-media data mining**: fake new detection, social emotion analysis, rumor detection, social psychological analysis
+<!-- * **Social-media data mining**: fake new detection, social emotion analysis, rumor detection, social psychological analysis -->
+* **Social good**: fake new detection, social emotion analysis, rumor detection, social psychological analysis
 * **Multi-modal large models**: parameter-efficient fine-tuning (PEFT / PETL), vision-language pre-trained models (VLM), text-video retrieval (TVR)
 * **Data-efficient learning**: few-shot learning (FSL), compositional zero-shot learning (CZSL), meta-learning
 * **Other fascinating areas**: federated learing, graph learning, reinforcement learning, unsupervised domain adaptation
