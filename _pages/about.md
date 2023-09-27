@@ -45,10 +45,12 @@ I am always looking for related colaboration. If you are interested to chat with
 
 <h2 id='news'>News</h2>
 
-* **[June 1st, 2023]** ~~[One paper about graph2text learning and prompt tuning](https://xingos123.github.io/files/smc2023/SMC23_0400_MS.pdf) got accepted for the 2023 IEEE International Conference on Systems, Man, and Cybernetics  (SMC2023).~~ However, there is no funding available to cover the costs of publishing it.
+* **[June 1st, 2023]** [One paper about graph2text learning and prompt tuning](https://xingos123.github.io/files/smc2023/SMC23_0400_MS.pdf) got accepted for the 2023 IEEE International Conference on Systems, Man, and Cybernetics  (SMC2023).
+<!-- ~~ However, there is no funding available to cover the costs of publishing it. -->
 * **[April 20, 2023]** [One paper about few-shot learning and prompt tuning](https://xingos123.github.io/files/seke2023/paper062.pdf) got accepted for the SEKE2023.
 * **[April 20, 2023]** [One paper about fake new detection and graph learning](https://xingos123.github.io/files/seke2023/paper061.pdf) got accepted for the 2023 International Conference on Software Engineering and Knowledge Engineering (SEKE2023).
-* **[April 20, 2023]** ~~[One paper about multimodal and chain-of-thought reasoning](https://xingos123.github.io/files/dms2023/dms-mmcot.pdf) got accepted for the 2023 International DMS Conference on Visualization and Visual Languages (DMSVIVA2023).~~ However, there is no funding available to cover the costs of publishing it.
+* **[April 20, 2023]** [One paper about multimodal and chain-of-thought reasoning](https://xingos123.github.io/files/dms2023/dms-mmcot.pdf) got accepted for the 2023 International DMS Conference on Visualization and Visual Languages (DMSVIVA2023).
+ <!-- However, there is no funding available to cover the costs of publishing it. -->
 * **[October 26, 2022]** As the corresponding author, [One paper about multimodal and graph learning](https://xingos123.github.io/files/dataanalysis/multidimensional-graph-convolutional-network.pdf) got accepted for the Journal of Data Analysis and Knowledge Discovery.
 
 
